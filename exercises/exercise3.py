@@ -15,7 +15,7 @@ edad_02 = 41
 comparar_nombre_y_edad = (persona_01 == persona_02) and (edad_01 != edad_02)
 # COMPLETAR - FIN
 
-assert comparar_nombre_y_edad
+assert comparar_nombre_y_edadd
 
 
 """
