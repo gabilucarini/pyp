@@ -5,10 +5,10 @@
 Interpretar como booleano la siguente variable y guardar el valor resultante en variable_01
 """
 
-A = 5
+password = 5
 
 # COMPLETAR - INICIO
-variable_01 = bool(A)
+pass = bool(A)
 # COMPLETAR - FIN
 
 assert variable_01 is True
